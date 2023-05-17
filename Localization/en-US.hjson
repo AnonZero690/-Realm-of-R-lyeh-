@@ -1,0 +1,1251 @@
+Mods: {
+	RealmOne: {
+		GameTips: {
+			ExampleTip0: The Archeologist is a wise but lost man, find him in snowbanks!
+			ExampleTip1: Cthulhu in Ohio
+			ExampleTip2: The soil feels moist and dire. Defeat Squirmo, the sludgy scavenger of the soil!
+			DisabledExampleTip: Imma bust a nut OMGGGGGGGGG
+		}
+
+		"Keybinds.Technicians Call.DisplayName": Technicians  Call
+
+		Tiles: {
+			EvoGrassTile.MapEntry: Evo Grass Tile
+			FlorenceMarbleTile.MapEntry: Florence Marble Tile
+			OldGoldOreT.MapEntry: Old Gold Ore T
+			TatteredWoodTile.MapEntry: Tattered Wood Tile
+			GrassPylonTile.MapEntry: Grass Pylon Tile
+			PhotosynthesisTile1.MapEntry: Photosynthesis Tile1
+			StoneOvenTilee.MapEntry: Stone Oven Tilee
+			TatteredBarrel.MapEntry: Tattered Barrel
+			ProtonTorch.MapEntry: Proton Torch
+		}
+
+		Buffs: {
+			BeerBuff: {
+				DisplayName: Beer Buff
+				Description: Drink too much and you'll be drunk
+			}
+
+			WineBuff: {
+				DisplayName: Wine Buff
+				Description: Drink too much and you'll be drunk
+			}
+
+			BreatheBuff: {
+				DisplayName: Breathe Buff
+				Description: Ability to breathe in space and gain various buffs that increase if your in space
+			}
+
+			CigaretteBuff: {
+				DisplayName: Cigarette Buff
+				Description: You're really feelin it right now
+			}
+
+			SharpHeat: {
+				DisplayName: Sharp Heat
+				Description: Burns the enemy with sharp heat, burns faster if their health is under 4
+			}
+
+			Splintered: {
+				DisplayName: Splintered
+				Description: Ouch!
+			}
+
+			DungeonPendantBuff: {
+				DisplayName: Dungeon Pendant Buff
+				Description: The charm empowers when you step foot into the dungeon!
+			}
+
+			HazardBuff: {
+				DisplayName: Hazard Buff
+				Description: You are vulnerable to damage from explosives!!!
+			}
+
+			HellfireVodkaBuff: {
+				DisplayName: Hellfire Vodka Buff
+				Description: Prefered choice of alcohol from the one and only Satan
+			}
+
+			LightbulbBuff: {
+				DisplayName: Lightbulb Buff
+				Description: Mods.RealmOne.Buffs.LightbulbBuff.Description
+			}
+
+			OpticBuff: {
+				DisplayName: Optic Buff
+				Description: Mods.RealmOne.Buffs.OpticBuff.Description
+			}
+
+			OverseerBuff: {
+				DisplayName: Overseer Buff
+				Description: Mods.RealmOne.Buffs.OverseerBuff.Description
+			}
+
+			SaltySwig: {
+				DisplayName: Salty Swig
+				Description: Mods.RealmOne.Buffs.SaltySwig.Description
+			}
+
+			TangledBuff: {
+				DisplayName: Tangled Buff
+				Description: Mods.RealmOne.Buffs.TangledBuff.Description
+			}
+
+			ToastedNutBarBuff: {
+				DisplayName: Toasted Nut Bar Buff
+				Description: Mods.RealmOne.Buffs.ToastedNutBarBuff.Description
+			}
+
+			TraditionalCologneBuff: {
+				DisplayName: Traditional Cologne Buff
+				Description: Mods.RealmOne.Buffs.TraditionalCologneBuff.Description
+			}
+
+			TreeSapBuff: {
+				DisplayName: Tree Sap Buff
+				Description: Mods.RealmOne.Buffs.TreeSapBuff.Description
+			}
+
+			MagnetBuff: {
+				DisplayName: Magnet Buff
+				Description: Mods.RealmOne.Buffs.MagnetBuff.Description
+			}
+		}
+
+		Items: {
+			AquaBlossomBody: {
+				DisplayName: Aqua Blossom Body
+				Tooltip: kys fag
+			}
+
+			AquaBlossomHead: {
+				DisplayName: Aqua Blossom Head
+				Tooltip: ""
+			}
+
+			AquaBlossomLegs: {
+				DisplayName: Aqua Blossom Legs
+				Tooltip: ""
+			}
+
+			BrassBody: {
+				DisplayName: Brass Body
+				Tooltip: ""
+			}
+
+			BrassHead: {
+				DisplayName: Brass Head
+				Tooltip: ""
+			}
+
+			BrassLegs: {
+				DisplayName: Brass Legs
+				Tooltip: ""
+			}
+
+			PiggyBody: {
+				DisplayName: Piggy Body
+				Tooltip: ""
+			}
+
+			PiggyHead: {
+				DisplayName: Piggy Head
+				Tooltip: ""
+			}
+
+			PiggyLegs: {
+				DisplayName: Piggy Legs
+				Tooltip: ""
+			}
+
+			TreeHuggerBody: {
+				DisplayName: Tree Hugger Body
+				Tooltip: ""
+			}
+
+			TreeHuggerHead: {
+				DisplayName: Tree Hugger Head
+				Tooltip: ""
+			}
+
+			TreeHuggerLegs: {
+				DisplayName: Tree Hugger Legs
+				Tooltip: ""
+			}
+
+			MoneyVase: {
+				DisplayName: Money Vase
+				Tooltip: ""
+			}
+
+			SquirmoSummon: {
+				DisplayName: Squirmo Summon
+				Tooltip: ""
+			}
+
+			AntiVenomVial: {
+				DisplayName: Anti Venom Vial
+				Tooltip: ""
+			}
+
+			BarkShield: {
+				DisplayName: Bark Shield
+				Tooltip: ""
+			}
+
+			BoneBag: {
+				DisplayName: Bone Bag
+				Tooltip: ""
+			}
+
+			DungeonPendant: {
+				DisplayName: Dungeon Pendant
+				Tooltip: ""
+			}
+
+			EarthEmerald: {
+				DisplayName: Earth Emerald
+				Tooltip: ""
+			}
+
+			EmptyLocket: {
+				DisplayName: Empty Locket
+				Tooltip: ""
+			}
+
+			FlinxBeanie: {
+				DisplayName: Flinx Beanie
+				Tooltip: ""
+			}
+
+			GreenNecklace: {
+				DisplayName: Green Necklace
+				Tooltip: ""
+			}
+
+			ImpactHeadmic: {
+				DisplayName: Impact Headmic
+				Tooltip: ""
+			}
+
+			LivebornLeaf: {
+				DisplayName: Liveborn Leaf
+				Tooltip: ""
+			}
+
+			MidnightHunterOptics: {
+				DisplayName: Midnight Hunter Optics
+				Tooltip: ""
+			}
+
+			Peni: {
+				DisplayName: Peni
+				Tooltip: ""
+			}
+
+			RoyalRawhide: {
+				DisplayName: Royal Rawhide
+				Tooltip: ""
+			}
+
+			RustyAmmoStock: {
+				DisplayName: Rusty Ammo Stock
+				Tooltip: ""
+			}
+
+			SquirmScarf: {
+				DisplayName: Squirm Scarf
+				Tooltip: ""
+			}
+
+			StaticStone: {
+				DisplayName: Static Stone
+				Tooltip: ""
+			}
+
+			StoneHilt: {
+				DisplayName: Stone Hilt
+				Tooltip: ""
+			}
+
+			TatteredBarkShield: {
+				DisplayName: Tattered Bark Shield
+				Tooltip: ""
+			}
+
+			TheOutcastsOverseer: {
+				DisplayName: The Outcasts Overseer
+				Tooltip: ""
+			}
+
+			VerdantBindis: {
+				DisplayName: Verdant Bindis
+				Tooltip: ""
+			}
+
+			CrushedAcorns: {
+				DisplayName: Crushed Acorns
+				Tooltip: ""
+			}
+
+			OutcropBossBag: {
+				DisplayName: Outcrop Boss Bag
+				Tooltip: ""
+			}
+
+			SquirmoBossBag: {
+				DisplayName: Squirmo Boss Bag
+				Tooltip: ""
+			}
+
+			ProtonPole: {
+				DisplayName: Proton Pole
+				Tooltip: ""
+			}
+
+			JamToast: {
+				DisplayName: Jam Toast
+				Tooltip: ""
+			}
+
+			SalmonAvoSushi: {
+				DisplayName: Salmon Avo Sushi
+				Tooltip: ""
+			}
+
+			ToastedNutBar: {
+				DisplayName: Toasted Nut Bar
+				Tooltip: ""
+			}
+
+			TreeSapJuice: {
+				DisplayName: Tree Sap Juice
+				Tooltip: ""
+			}
+
+			TunaAndAvacado: {
+				DisplayName: Tuna And Avacado
+				Tooltip: ""
+			}
+
+			VegeToast: {
+				DisplayName: Vege Toast
+				Tooltip: ""
+			}
+
+			AquaSwishFishItem: {
+				DisplayName: Aqua Swish Fish Item
+				Tooltip: ""
+			}
+
+			AquaSwishSnailItem: {
+				DisplayName: Aqua Swish Snail Item
+				Tooltip: ""
+			}
+
+			GiantDragonflyItem: {
+				DisplayName: Giant Dragonfly Item
+				Tooltip: ""
+			}
+
+			WaterLizardCritter: {
+				DisplayName: Water Lizard Critter
+				Tooltip: ""
+			}
+
+			BrassIngot: {
+				DisplayName: Brass Ingot
+				Tooltip: ""
+			}
+
+			BrassNuggets: {
+				DisplayName: Brass Nuggets
+				Tooltip: ""
+			}
+
+			BreadLoaf: {
+				DisplayName: Bread Loaf
+				Tooltip: ""
+			}
+
+			DrownedDeathpearl: {
+				DisplayName: Drowned Deathpearl
+				Tooltip: ""
+			}
+
+			EdibleLeechHeart: {
+				DisplayName: Edible Leech Heart
+				Tooltip: ""
+			}
+
+			Crimcore: {
+				DisplayName: Crimcore
+				Tooltip: ""
+			}
+
+			EidolicInk: {
+				DisplayName: Eidolic Ink
+				Tooltip: ""
+			}
+
+			EnchantedStarglitter: {
+				DisplayName: Enchanted Starglitter
+				Tooltip: ""
+			}
+
+			Flamestone: {
+				DisplayName: Flamestone
+				Tooltip: ""
+			}
+
+			FleshyCornea: {
+				DisplayName: Fleshy Cornea
+				Tooltip: ""
+			}
+
+			GizmoScrap: {
+				DisplayName: Gizmo Scrap
+				Tooltip: ""
+			}
+
+			GoopyGrass: {
+				DisplayName: Goopy Grass
+				Tooltip: ""
+			}
+
+			ImpactTech: {
+				DisplayName: Impact Tech
+				Tooltip: ""
+			}
+
+			InfectedViscus: {
+				DisplayName: Infected Viscus
+				Tooltip: ""
+			}
+
+			PiggyPorcelain: {
+				DisplayName: Piggy Porcelain
+				Tooltip: ""
+			}
+
+			ScathedFlesh: {
+				DisplayName: Scathed Flesh
+				Tooltip: ""
+			}
+
+			FragrantMoonMushroom: {
+				DisplayName: Fragrant Moon Mushroom
+				Tooltip: ""
+			}
+
+			FreshSeaweed: {
+				DisplayName: Fresh Seaweed
+				Tooltip: ""
+			}
+
+			IronGunBarrel: {
+				DisplayName: Iron Gun Barrel
+				Tooltip: ""
+			}
+
+			LeadGunBarrel: {
+				DisplayName: Lead Gun Barrel
+				Tooltip: ""
+			}
+
+			LightbulbLiquid: {
+				DisplayName: Lightbulb Liquid
+				Tooltip: ""
+			}
+
+			OldGoldBar: {
+				DisplayName: Old Gold Bar
+				Tooltip: ""
+			}
+
+			Parchment: {
+				DisplayName: Parchment
+				Tooltip: ""
+			}
+
+			PlanetaryShard: {
+				DisplayName: Planetary Shard
+				Tooltip: ""
+			}
+
+			ScavengerSteel: {
+				DisplayName: Scavenger Steel
+				Tooltip: ""
+			}
+
+			WaterDriplets: {
+				DisplayName: Water Driplets
+				Tooltip: ""
+			}
+
+			Wheat: {
+				DisplayName: Wheat
+				Tooltip: ""
+			}
+
+			WoodenGunBarrel: {
+				DisplayName: Wooden Gun Barrel
+				Tooltip: ""
+			}
+
+			IllicitStash: {
+				DisplayName: Illicit Stash
+				Tooltip: ""
+			}
+
+			MinersPouch: {
+				DisplayName: Miners Pouch
+				Tooltip: ""
+			}
+
+			SpaceStarfish: {
+				DisplayName: Space Starfish
+				Tooltip: ""
+			}
+
+			EntropyMedallion: {
+				DisplayName: Entropy Medallion
+				Tooltip: ""
+			}
+
+			HeavenMagnet: {
+				DisplayName: Heaven Magnet
+				Tooltip: ""
+			}
+
+			LoreScroll1: {
+				DisplayName: Lore Scroll1
+				Tooltip: ""
+			}
+
+			OtherWorldly: {
+				DisplayName: Other Worldly
+				Tooltip: ""
+			}
+
+			TheCalender: {
+				DisplayName: The Calender
+				Tooltip: ""
+			}
+
+			LovecraftPaper: {
+				DisplayName: Lovecraft Paper
+				Tooltip: ""
+			}
+
+			EvoGrassItem: {
+				DisplayName: Evo Grass Item
+				Tooltip: ""
+			}
+
+			FlorenceMarble: {
+				DisplayName: Florence Marble
+				Tooltip: ""
+			}
+
+			GrassPylonItem: {
+				DisplayName: Grass Pylon Item
+				Tooltip: ""
+			}
+
+			OldGoldOre: {
+				DisplayName: Old Gold Ore
+				Tooltip: ""
+			}
+
+			PhotosynthesisItem: {
+				DisplayName: Photosynthesis Item
+				Tooltip: ""
+			}
+
+			SquirmoRelicItem: {
+				DisplayName: Squirmo Relic Item
+				Tooltip: ""
+			}
+
+			StoneOvenItem: {
+				DisplayName: Stone Oven Item
+				Tooltip: ""
+			}
+
+			TatteredBarrelItem: {
+				DisplayName: Tattered Barrel Item
+				Tooltip: ""
+			}
+
+			TatteredWood: {
+				DisplayName: Tattered Wood
+				Tooltip: ""
+			}
+
+			ProtonTorchItem: {
+				DisplayName: Proton Torch Item
+				Tooltip: ""
+			}
+
+			VintageBeer: {
+				DisplayName: Vintage Beer
+				Tooltip: ""
+			}
+
+			VintageWine: {
+				DisplayName: Vintage Wine
+				Tooltip: ""
+			}
+
+			BarrenBrew: {
+				DisplayName: Barren Brew
+				Tooltip: ""
+			}
+
+			BreathePotion: {
+				DisplayName: Breathe Potion
+				Tooltip: ""
+			}
+
+			Cigarette1: {
+				DisplayName: Cigarette1
+				Tooltip: ""
+			}
+
+			HellfireVodka: {
+				DisplayName: Hellfire Vodka
+				Tooltip: ""
+			}
+
+			LightbulbPotion: {
+				DisplayName: Lightbulb Potion
+				Tooltip: ""
+			}
+
+			TraditionalCologne: {
+				DisplayName: Traditional Cologne
+				Tooltip: ""
+			}
+
+			TheRedAxe: {
+				DisplayName: The Red Axe
+				Tooltip: ""
+			}
+
+			PompeiisPull: {
+				DisplayName: Pompeiis Pull
+				Tooltip: ""
+			}
+
+			CloudDiggingClaw: {
+				DisplayName: Cloud Digging Claw
+				Tooltip: ""
+			}
+
+			EyePick: {
+				DisplayName: Eye Pick
+				Tooltip: ""
+			}
+
+			ImpactPickaxe: {
+				DisplayName: Impact Pickaxe
+				Tooltip: ""
+			}
+
+			OldGoldPick: {
+				DisplayName: Old Gold Pick
+				Tooltip: ""
+			}
+
+			ASledgeHammer: {
+				DisplayName: A Sledge Hammer
+				Tooltip: ""
+			}
+
+			BattleboatBomb: {
+				DisplayName: Battleboat Bomb
+				Tooltip: ""
+			}
+
+			BotanicLogLauncher: {
+				DisplayName: Botanic Log Launcher
+				Tooltip: ""
+			}
+
+			C4: {
+				DisplayName: C4
+				Tooltip: ""
+			}
+
+			CastawayRum: {
+				DisplayName: Castaway Rum
+				Tooltip: ""
+			}
+
+			CopperFragGrenade: {
+				DisplayName: Copper Frag Grenade
+				Tooltip: ""
+			}
+
+			ScavengerSawblade: {
+				DisplayName: Scavenger Sawblade
+				Tooltip: ""
+			}
+
+			TheGardenGlove: {
+				DisplayName: The Garden Glove
+				Tooltip: ""
+			}
+
+			TinFragGrenade: {
+				DisplayName: Tin Frag Grenade
+				Tooltip: ""
+			}
+
+			Type24StickNade: {
+				DisplayName: Type24 Stick Nade
+				Tooltip: ""
+			}
+
+			CrashLandChainGun: {
+				DisplayName: Crash Land Chain Gun
+				Tooltip: ""
+			}
+
+			NebulaniNox: {
+				DisplayName: Nebulani Nox
+				Tooltip: ""
+			}
+
+			PhantomPumpkin: {
+				DisplayName: Phantom Pumpkin
+				Tooltip: ""
+			}
+
+			PridefulMoraleStaff: {
+				DisplayName: Prideful Morale Staff
+				Tooltip: ""
+			}
+
+			TheDreamer: {
+				DisplayName: The Dreamer
+				Tooltip: ""
+			}
+
+			CoconutHarp: {
+				DisplayName: Coconut Harp
+				Tooltip: ""
+			}
+
+			CorneaScepter: {
+				DisplayName: Cornea Scepter
+				Tooltip: ""
+			}
+
+			MagicGobBag: {
+				DisplayName: Magic Gob Bag
+				Tooltip: ""
+			}
+
+			WaterQuarry: {
+				DisplayName: Water Quarry
+				Tooltip: ""
+			}
+
+			HeatedXiphoss: {
+				DisplayName: Heated Xiphoss
+				Tooltip: ""
+			}
+
+			ScarecrowsCut: {
+				DisplayName: Scarecrows Cut
+				Tooltip: ""
+			}
+
+			ShatteredGemBlade: {
+				DisplayName: Shattered Gem Blade
+				Tooltip: ""
+			}
+
+			UnstableWireBlade: {
+				DisplayName: Unstable Wire Blade
+				Tooltip: ""
+			}
+
+			FoliageFury: {
+				DisplayName: Foliage Fury
+				Tooltip: ""
+			}
+
+			Overgrowth: {
+				DisplayName: Overgrowth
+				Tooltip: ""
+			}
+
+			DoubleSidedSquirm: {
+				DisplayName: Double Sided Squirm
+				Tooltip: ""
+			}
+
+			GlobGun: {
+				DisplayName: Glob Gun
+				Tooltip: ""
+			}
+
+			SquirmStaff: {
+				DisplayName: Squirm Staff
+				Tooltip: ""
+			}
+
+			SquirYo: {
+				DisplayName: Squir Yo
+				Tooltip: ""
+			}
+
+			BrassBow: {
+				DisplayName: Brass Bow
+				Tooltip: ""
+			}
+
+			BrassCandlewick: {
+				DisplayName: Brass Candlewick
+				Tooltip: ""
+			}
+
+			BrassSword: {
+				DisplayName: Brass Sword
+				Tooltip: ""
+			}
+
+			StackPotions: {
+				DisplayName: Stack Potions
+				Tooltip: ""
+			}
+
+			CombusterCrossbow: {
+				DisplayName: Combuster Crossbow
+				Tooltip: ""
+			}
+
+			DualWieldCrossbows: {
+				DisplayName: Dual Wield Crossbows
+				Tooltip: ""
+			}
+
+			CactusThrust: {
+				DisplayName: Cactus Thrust
+				Tooltip: ""
+			}
+
+			DesertWhisper: {
+				DisplayName: Desert Whisper
+				Tooltip: ""
+			}
+
+			SandTwister: {
+				DisplayName: Sand Twister
+				Tooltip: ""
+			}
+
+			StormStrikerSpinner: {
+				DisplayName: Storm Striker Spinner
+				Tooltip: ""
+			}
+
+			AcornBlunderbuss: {
+				DisplayName: Acorn Blunderbuss
+				Tooltip: ""
+			}
+
+			KnopperWhopper: {
+				DisplayName: Knopper Whopper
+				Tooltip: ""
+			}
+
+			MossMarrow: {
+				DisplayName: Moss Marrow
+				Tooltip: ""
+			}
+
+			RotteredElbowbone: {
+				DisplayName: Rottered Elbowbone
+				Tooltip: ""
+			}
+
+			RustedCenturionSword: {
+				DisplayName: Rusted Centurion Sword
+				Tooltip: ""
+			}
+
+			SaplingScorcher: {
+				DisplayName: Sapling Scorcher
+				Tooltip: ""
+			}
+
+			Twigbulb: {
+				DisplayName: Twigbulb
+				Tooltip: ""
+			}
+
+			Vinepoint: {
+				DisplayName: Vinepoint
+				Tooltip: ""
+			}
+
+			AcornGrenade: {
+				DisplayName: Acorn Grenade
+				Tooltip: ""
+			}
+
+			IgnitionPoker: {
+				DisplayName: Ignition Poker
+				Tooltip: ""
+			}
+
+			Phlogiston: {
+				DisplayName: Phlogiston
+				Tooltip: ""
+			}
+
+			TorchedTextbook: {
+				DisplayName: Torched Textbook
+				Tooltip: ""
+			}
+
+			GushingFrostMinnow: {
+				DisplayName: Gushing Frost Minnow
+				Tooltip: ""
+			}
+
+			SnowflakeScepter: {
+				DisplayName: Snowflake Scepter
+				Tooltip: ""
+			}
+
+			ImpactBoomerang: {
+				DisplayName: Impact Boomerang
+				Tooltip: ""
+			}
+
+			ImpactInterceptor: {
+				DisplayName: Impact Interceptor
+				Tooltip: ""
+			}
+
+			ImpactPiercer: {
+				DisplayName: Impact Piercer
+				Tooltip: ""
+			}
+
+			ImpactPulsa: {
+				DisplayName: Impact Pulsa
+				Tooltip: ""
+			}
+
+			InkPistol: {
+				DisplayName: Ink Pistol
+				Tooltip: ""
+			}
+
+			InkSpear: {
+				DisplayName: Ink Spear
+				Tooltip: ""
+			}
+
+			SpaceMiniGun: {
+				DisplayName: Space Mini Gun
+				Tooltip: ""
+			}
+
+			OldGoldGuillotines: {
+				DisplayName: Old Gold Guillotines
+				Tooltip: ""
+			}
+
+			Oldy: {
+				DisplayName: Oldy
+				Tooltip: ""
+			}
+
+			PagesOfPristinity: {
+				DisplayName: Pages Of Pristinity
+				Tooltip: ""
+			}
+
+			PiggyPursuer: {
+				DisplayName: Piggy Pursuer
+				Tooltip: ""
+			}
+
+			WithDraw: {
+				DisplayName: With Draw
+				Tooltip: ""
+			}
+
+			PalmWoodPoker: {
+				DisplayName: Palm Wood Poker
+				Tooltip: ""
+			}
+
+			RichMahoganyPoker: {
+				DisplayName: Rich Mahogany Poker
+				Tooltip: ""
+			}
+
+			StonePoker: {
+				DisplayName: Stone Poker
+				Tooltip: ""
+			}
+
+			VerdantPoker: {
+				DisplayName: Verdant Poker
+				Tooltip: ""
+			}
+
+			WoodenPoker: {
+				DisplayName: Wooden Poker
+				Tooltip: ""
+			}
+
+			CrimcrushBlunderbuss: {
+				DisplayName: Crimcrush Blunderbuss
+				Tooltip: ""
+			}
+
+			DustStormBlunderbuss: {
+				DisplayName: Dust Storm Blunderbuss
+				Tooltip: ""
+			}
+
+			EbonfrostBlunderbuss: {
+				DisplayName: Ebonfrost Blunderbuss
+				Tooltip: ""
+			}
+
+			HPChainShot: {
+				DisplayName: H P Chain Shot
+				Tooltip: ""
+			}
+
+			JungleTechShotgun: {
+				DisplayName: Jungle Tech Shotgun
+				Tooltip: ""
+			}
+
+			MahoganyBlunderbuss: {
+				DisplayName: Mahogany Blunderbuss
+				Tooltip: ""
+			}
+
+			PumpShotgun: {
+				DisplayName: Pump Shotgun
+				Tooltip: ""
+			}
+
+			VintageBlunderbuss: {
+				DisplayName: Vintage Blunderbuss
+				Tooltip: ""
+			}
+
+			StoneTippedSpear: {
+				DisplayName: Stone Tipped Spear
+				Tooltip: ""
+			}
+
+			WoodenTippedSpear: {
+				DisplayName: Wooden Tipped Spear
+				Tooltip: ""
+			}
+
+			Glitterbook: {
+				DisplayName: Glitterbook
+				Tooltip: ""
+			}
+
+			EleJelly: {
+				DisplayName: Ele Jelly
+				Tooltip: ""
+			}
+
+			PreFlamedGel: {
+				DisplayName: Pre Flamed Gel
+				Tooltip: ""
+			}
+
+			TundraThrowingKnife: {
+				DisplayName: Tundra Throwing Knife
+				Tooltip: ""
+			}
+
+			vampdag: {
+				DisplayName: vampdag
+				Tooltip: ""
+			}
+
+			CrackshotWheelgun: {
+				DisplayName: Crackshot Wheelgun
+				Tooltip: ""
+			}
+
+			TommyGun: {
+				DisplayName: Tommy Gun
+				Tooltip: ""
+			}
+
+			AntlionClusternest: {
+				DisplayName: Antlion Clusternest
+				Tooltip: ""
+			}
+
+			ExtensionCord: {
+				DisplayName: Extension Cord
+				Tooltip: ""
+			}
+
+			TwinklingTwig: {
+				DisplayName: Twinkling Twig
+				Tooltip: ""
+			}
+
+			SkullMask: {
+				DisplayName: Skull Mask
+				Tooltip: ""
+			}
+		}
+
+		NPCs: {
+			SquirmoBody.DisplayName: Squirmo Body
+			SquirmoHead.DisplayName: Squirmo Head
+			SquirmoTail.DisplayName: Squirmo Tail
+			Squirm.DisplayName: Squirm
+			AquaSwishFish.DisplayName: Aqua Swish Fish
+			AquaSwishSnail.DisplayName: Aqua Swish Snail
+			GiantDragonfly.DisplayName: Giant Dragonfly
+			IcerockSnail.DisplayName: Icerock Snail
+			ImpactBunny.DisplayName: Impact Bunny
+			WaterLizard.DisplayName: Water Lizard
+			EleJellyNPC.DisplayName: Ele Jelly N P C
+			AcornSprinter.DisplayName: Acorn Sprinter
+			AcornStiltWalker.DisplayName: Acorn Stilt Walker
+			BarrenBarkSlime1.DisplayName: Barren Bark Slime1
+			BarrenBarkSlime2.DisplayName: Barren Bark Slime2
+			HeartBat.DisplayName: Heart Bat
+			MegaSquirmBody.DisplayName: Mega Squirm Body
+			MegaSquirmHead.DisplayName: Mega Squirm Head
+			MegaSquirmTail.DisplayName: Mega Squirm Tail
+			MossyMarauder.DisplayName: Mossy Marauder
+			RustedCenturion.DisplayName: Rusted Centurion
+			ZombieFarmer.DisplayName: Zombie Farmer
+			GlitterdustSlime.DisplayName: Glitterdust Slime
+			Eslime.DisplayName: Eslime
+			Espider1.DisplayName: Espider1
+			Eye1.DisplayName: Eye1
+			ImpactTurret.DisplayName: Impact Turret
+			Inkling.DisplayName: Inkling
+			LightbulbBouncer.DisplayName: Lightbulb Bouncer
+			PossessedPiggy.DisplayName: Possessed Piggy
+			NecroDude.DisplayName: Necro Dude
+			FunnelWebSpider.DisplayName: Funnel Web Spider
+			HuntsmanSpider.DisplayName: Huntsman Spider
+			RedbackSpider.DisplayName: Redback Spider
+			ArcheologistNPC.DisplayName: Archeologist N P C
+			BoundArcheologist.DisplayName: Bound Archeologist
+		}
+
+		Projectiles: {
+			GlobGunProjectileHostile.DisplayName: Glob Gun Projectile Hostile
+			GlobGunProjectile.DisplayName: Glob Gun Projectile
+			ProtonBobber.DisplayName: Proton Bobber
+			PompeiisPullProjectile.DisplayName: Pompeiis Pull Projectile
+			DoubleSidedSquirmProj.DisplayName: Double Sided Squirm Proj
+			StormStrikerSpinnerProj.DisplayName: Storm Striker Spinner Proj
+			OldGoldHookProjectile.DisplayName: Old Gold Hook Projectile
+			OldChainHook.DisplayName: Old Chain Hook
+			WagonWheel.DisplayName: Wagon Wheel
+			CrossBowBolt.DisplayName: Cross Bow Bolt
+			HellBolt.DisplayName: Hell Bolt
+			CrimBulletProjectile.DisplayName: Crim Bullet Projectile
+			FlamerProj.DisplayName: Flamer Proj
+			FlowerBulletProjectile.DisplayName: Flower Bullet Projectile
+			GlowTest.DisplayName: Glow Test
+			GreenLeaf.DisplayName: Green Leaf
+			Heller.DisplayName: Heller
+			IceBulletProjectile.DisplayName: Ice Bullet Projectile
+			PinkLeaf.DisplayName: Pink Leaf
+			PulsaShot.DisplayName: Pulsa Shot
+			SandBulletProjectile.DisplayName: Sand Bullet Projectile
+			TommyGunBarrelFlash.DisplayName: Tommy Gun Barrel Flash
+			VintageBulletProjectile.DisplayName: Vintage Bullet Projectile
+			Wheel.DisplayName: Wheel
+			BattleboatBombProj.DisplayName: Battleboat Bomb Proj
+			C4Proj.DisplayName: C4 Proj
+			C5Proj.DisplayName: C5 Proj
+			CastawayRumProj.DisplayName: Castaway Rum Proj
+			CopperFragGrenadeProj.DisplayName: Copper Frag Grenade Proj
+			DynamiteRocket.DisplayName: Dynamite Rocket
+			FlowerLog.DisplayName: Flower Log
+			FlowerLogProj.DisplayName: Flower Log Proj
+			ScavengerProjectile.DisplayName: Scavenger Projectile
+			TinFragGrenadeProj.DisplayName: Tin Frag Grenade Proj
+			Type24StickNadeProj.DisplayName: Type24 Stick Nade Proj
+			WormBall.DisplayName: Worm Ball
+			BotanicLogLauncherH.DisplayName: Botanic Log Launcher H
+			CactusThrustProj.DisplayName: Cactus Thrust Proj
+			CombusterCrossbowProj.DisplayName: Combuster Crossbow Proj
+			InkSpearProj.DisplayName: Ink Spear Proj
+			JungleTechHeld.DisplayName: Jungle Tech Held
+			KnopperBall.DisplayName: Knopper Ball
+			SandTwisterProj.DisplayName: Sand Twister Proj
+			SquirYoProjectile.DisplayName: Squir Yo Projectile
+			StoneTippedSpearProj.DisplayName: Stone Tipped Spear Proj
+			VinepointProj.DisplayName: Vinepoint Proj
+			WaterQuarryHeld.DisplayName: Water Quarry Held
+			WoodenCrossProj.DisplayName: Wooden Cross Proj
+			WoodenTippedSpearProj.DisplayName: Wooden Tipped Spear Proj
+			CoconutProj.DisplayName: Coconut Proj
+			DesertHands.DisplayName: Desert Hands
+			DreamerShot.DisplayName: Dreamer Shot
+			eyebig.DisplayName: eyebig
+			eyesmol.DisplayName: eyesmol
+			FlamePumpkinProj.DisplayName: Flame Pumpkin Proj
+			GobPortal.DisplayName: Gob Portal
+			GrassNote.DisplayName: Grass Note
+			LightBulbRing1.DisplayName: Light Bulb Ring1
+			OldGoldNado.DisplayName: Old Gold Nado
+			PulseProj.DisplayName: Pulse Proj
+			ShrubbyLeaf.DisplayName: Shrubby Leaf
+			Snowy.DisplayName: Snowy
+			SquirmStaffProjectile.DisplayName: Squirm Staff Projectile
+			Stary.DisplayName: Stary
+			CactiSticky.DisplayName: Cacti Sticky
+			IdolProj.DisplayName: Idol Proj
+			InkGlob.DisplayName: Ink Glob
+			LootBalloon.DisplayName: Loot Balloon
+			MiniSand.DisplayName: Mini Sand
+			SteppingStonesProj.DisplayName: Stepping Stones Proj
+			ColdHuntBoomerangProj.DisplayName: Cold Hunt Boomerang Proj
+			IgnitionPokerProjectile.DisplayName: Ignition Poker Projectile
+			PalmWoodPokerProjectile.DisplayName: Palm Wood Poker Projectile
+			RichMahoganyPokerProjectile.DisplayName: Rich Mahogany Poker Projectile
+			StonePokerProjectile.DisplayName: Stone Poker Projectile
+			VerdantPokerProjectile.DisplayName: Verdant Poker Projectile
+			WoodenPokerProjectile.DisplayName: Wooden Poker Projectile
+			MiniAnti.DisplayName: Mini Anti
+			MiniNest.DisplayName: Mini Nest
+			ScarecrowsCutProjectile.DisplayName: Scarecrows Cut Projectile
+			ShatteredGemBladeProj1.DisplayName: Shattered Gem Blade Proj1
+			ShatteredGemBladeProj2.DisplayName: Shattered Gem Blade Proj2
+			UnstableWireBladeProj.DisplayName: Unstable Wire Blade Proj
+			AcornNadeProj.DisplayName: Acorn Nade Proj
+			BoneSpine.DisplayName: Bone Spine
+			EleJellyProj.DisplayName: Ele Jelly Proj
+			MoneyVaseProj.DisplayName: Money Vase Proj
+			StackPotionsProj.DisplayName: Stack Potions Proj
+			TundraThrowingKnifeProjectile.DisplayName: Tundra Throwing Knife Projectile
+			vampdagProjectile.DisplayName: vampdag Projectile
+			ExtensionCordProjectile.DisplayName: Extension Cord Projectile
+		}
+	}
+}
